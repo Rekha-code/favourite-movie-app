@@ -1,0 +1,21 @@
+.movieInput {
+  width: 80%;
+  height: 40px;
+  margin-bottom: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+}
+
+h3 {
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+
+
+
+
+.list-group-item {
+  color: rgb(227, 25, 25);
+}

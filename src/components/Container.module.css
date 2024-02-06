@@ -1,0 +1,9 @@
+.container {
+  border: 1px solid black;
+  width: 50%;
+  border-radius: 5px;
+  padding: 15px;
+  min-width: 300px;
+  background-color: teal;
+  margin-left: 500px;
+}

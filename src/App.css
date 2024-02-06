@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+input {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+.showData {
+  width: 100%;
+  /* background-color: aliceblue; */
+}
